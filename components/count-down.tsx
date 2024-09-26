@@ -1,7 +1,7 @@
 "use client"
 import { useState, useRef, useEffect, ChangeEvent } from "react"
 import { Button } from "./ui/button"
-
+import { Input } from "./ui/input"
 
 export default function Countdown(){
 
